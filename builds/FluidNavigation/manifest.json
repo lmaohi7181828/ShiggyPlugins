@@ -1,0 +1,9 @@
+{
+  "name": "FluidNavigation",
+  "description": "Configurable fluid navigation transitions for Discord mobile (fade, slide, scale, spring). Safe Android defaults, reduced-motion support.",
+  "authors": [{"name": "fratboys", "id": "0"}],
+  "main": "index.js",
+  "version": "1.0.0",
+  "vendetta": {"icon": "ic_mobile_device_24px"},
+  "hash": "8b9103f4f42f6b9054b8ac73379f1c6a72a2ae57fe893219d479e830eb30169e"
+}

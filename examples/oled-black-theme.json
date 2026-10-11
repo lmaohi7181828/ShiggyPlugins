@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "name": "OLED Black",
+  "colors": {
+    "accent": "#FFFFFF",
+    "accentSecondary": "#B0B0B0",
+    "background": "#000000",
+    "surface": "#0A0A0A",
+    "text": "#FFFFFF",
+    "textSecondary": "#A0A0A0",
+    "border": "#222222",
+    "message": "#0D0D0D"
+  }
+}

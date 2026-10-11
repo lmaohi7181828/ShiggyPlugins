@@ -18,5 +18,13 @@
   "TruePresence": {
     "version": "1.2.0",
     "alwaysFetch": true
+  },
+  "FluidNavigation": {
+    "version": "1.0.0",
+    "alwaysFetch": true
+  },
+  "LiveThemeComposer": {
+    "version": "1.0.0",
+    "alwaysFetch": true
   }
 }

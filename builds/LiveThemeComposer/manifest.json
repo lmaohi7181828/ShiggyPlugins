@@ -1,0 +1,9 @@
+{
+  "name": "LiveThemeComposer",
+  "description": "Mobile-first live theme editor with presets, contrast checks, custom themes, and safe JSON import/export.",
+  "authors": [{"name": "fratboys", "id": "0"}],
+  "main": "index.js",
+  "version": "1.0.0",
+  "vendetta": {"icon": "ic_theme_24px"},
+  "hash": "5a2a068f0fd6357143e4fadecbfe18806b9053ac1b8f66ea3a07d3ccfd2bfa17"
+}

@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "name": "Midnight",
+  "colors": {
+    "accent": "#5865F2",
+    "accentSecondary": "#4752C4",
+    "background": "#0B0D12",
+    "surface": "#151821",
+    "text": "#E8EAED",
+    "textSecondary": "#9AA0A6",
+    "border": "#2A2F3A",
+    "message": "#1A1D26"
+  }
+}
